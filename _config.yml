@@ -19,6 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+  
+style: dark # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
+footer: '|Twitch|Facebook|Music|'
+
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,11 +34,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mrlordbrown
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
