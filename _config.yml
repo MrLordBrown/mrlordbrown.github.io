@@ -21,19 +21,18 @@
 remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
+  - about.md
   
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 footer: '|Twitch|Facebook|Music|'
 
 title: Your awesome title
-email: your-email@example.com
+email: mrlordvondoombraun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  The Center for Holistic Gaming provides support and guidance for individuals seeking a balanced, fufilling gaming life.  We offer services in tabletop, board, and video gaming to enrich and enlighten the lives of our patients.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mrlordbrown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mrlordbrown
 
 # Build settings
