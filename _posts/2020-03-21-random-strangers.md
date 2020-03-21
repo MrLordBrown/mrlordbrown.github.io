@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-03-11 16:23:28 -0700
-categories: jekyll update
+title:  "Random Strangers!"
+date:   2020-03-21 11:15:00 -0800
+categories: blog thoughts
 ---
+My niece and her mother (my sister) had a racous discussion of `random strangers`.  The `randomness` of these individuals intrigued me because in my dealings wit the universe I always assumed that strangers were purposely, and indeed, quite intentionally piut there to be strange to me.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
