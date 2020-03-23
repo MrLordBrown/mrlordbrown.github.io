@@ -22,11 +22,10 @@ remote_theme: mrlordbrown/jekyll-theme-console
 header_pages:
   - index.md
   - about.md
-  - links.md
   
 style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
-footer: '|Twitch|Facebook|Music|'
+listen_for_clients_preferred_style: false # true or false (default)
+footer: '|[Twitch](https://https://www.twitch.tv/doctorbrowns)|[Facebook](https://www.facebook.com/doctorbrowns)|[Music](https://abnormal-listening-behavior.web.app)|'
 
 title: Your awesome title
 email: mrlordvondoombraun@gmail.com
