@@ -18,16 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: mrlordbrown/jekyll-theme-console
-header_pages:
-  - index.md
-  - about.md
-  
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: false # true or false (default)
-footer: '|[Twitch](https://https://www.twitch.tv/doctorbrowns)|[Facebook](https://www.facebook.com/doctorbrowns)|[Music](https://abnormal-listening-behavior.web.app)|'
-
-title: Your awesome title
+title: Center for Holistic Gaming
 email: mrlordvondoombraun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Center for Holistic Gaming provides support and guidance for individuals seeking a balanced, fufilling gaming life.  We offer services in tabletop, board, and video gaming to enrich and enlighten the lives of our patients.
