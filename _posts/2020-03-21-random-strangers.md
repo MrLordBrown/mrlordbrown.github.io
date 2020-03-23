@@ -4,7 +4,7 @@ title:  "Random Strangers"
 date:   2020-03-21 11:15:00 -0800
 categories: blog thoughts
 ---
-![](/assets/strange.png)
+!(/assets/strange.png)
 
 
 My niece and her mother (my sister) had a raucous discussion of `random strangers`.  The `randomness` of these individuals intrigued me because (in my dealings with the universe) I always assumed that strangers were necessarily, and indeed, quite intentionally put there to be strange to me.  Thus, in my assumption, strangers are not random because how could they be "just friends I have not met yet"?  Friends are not random, friends are part of a divine plan made special just for me, correct?
